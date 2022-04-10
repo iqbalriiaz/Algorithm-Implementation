@@ -21,7 +21,7 @@ The State-space diagram is a graphical representation of the set of states(input
 2. The Y-axis denotes the values of objective function corresponding to a particular state.
 The best solution will be that state space where objective function has maximum/minimum value or global maxima/global minima.
 
-<img src="https://github.com/iqbalriiaz/Certificates/blob/main/ICPC_2018/2018_Asia_Dhaka_Preliminary.jpg" alt="ICPC Preliminary" style="height: 100%; width:100%;"/>
+<img src="https://github.com/iqbalriiaz/Algorithm-Implementation/blob/main/Hill-Climbing-Algorithm/images/state_space_diagram.png" alt="ICPC Preliminary" style="height: 100%; width:100%;"/>
 
 <center> <b> FIG:</b> State Space diagram for Hill Climbing </center>
 </br>
