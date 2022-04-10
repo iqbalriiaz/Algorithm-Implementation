@@ -45,9 +45,9 @@ int  main(){
 // srand(time(NULL)); //[to generate unique random numbers]
 
     int global = 0;
+
     while(true){
 
-    
         for(int i = 0; i<5; i++){
             int x = rand(); //[same pile of random numbers]
             check[i]= x % 2;
@@ -64,7 +64,6 @@ int  main(){
 
             local = max(local,utility_function());
         
-
             if(global<local){
                 global = local;
                 for(int i = 0; i < 5; i++){
